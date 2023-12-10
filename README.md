@@ -13,7 +13,7 @@
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-61%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-65%20hrs%2016%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -58,13 +58,16 @@ Sunday                   3 commits           ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   31 mins             █████████████████████████   100.00 % 
+Python                   3 hrs 47 mins       █████████████████████████   99.34 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-VS Code                  31 mins             █████████████████████████   100.00 % 
+VS Code                  3 hrs 49 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  31 mins             █████████████████████████   100.00 % 
+Windows                  3 hrs 3 mins        ████████████████████░░░░░   79.85 % 
+Mac                      46 mins             █████░░░░░░░░░░░░░░░░░░░░   20.15 % 
 ```
 
 **I Mostly Code in Python** 
@@ -79,7 +82,7 @@ JavaScript               1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 09/12/2023 00:43:16 UTC
+ Last Updated on 10/12/2023 00:47:59 UTC
 <!--END_SECTION:waka-->
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
 
