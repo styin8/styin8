@@ -68,8 +68,8 @@ Text                     0 secs              ░░░░░░░░░░░�
 VS Code                  6 hrs 41 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  4 hrs 36 mins       █████████████████░░░░░░░░   68.90 % 
-Mac                      2 hrs 4 mins        ████████░░░░░░░░░░░░░░░░░   31.10 % 
+Windows                  4 hrs 36 mins       █████████████████░░░░░░░░   68.89 % 
+Mac                      2 hrs 5 mins        ████████░░░░░░░░░░░░░░░░░   31.11 % 
 ```
 
 **I Mostly Code in Python** 
@@ -84,7 +84,7 @@ JavaScript               1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 29/01/2024 00:42:22 UTC
+ Last Updated on 30/01/2024 00:41:52 UTC
 <!--END_SECTION:waka-->
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
 
