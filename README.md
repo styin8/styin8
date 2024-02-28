@@ -58,14 +58,13 @@ Sunday                   3 commits           ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       1 min               ███████████████████████░░   90.08 % 
-JSON                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -80,7 +79,7 @@ JavaScript               1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 27/02/2024 00:41:09 UTC
+ Last Updated on 28/02/2024 00:40:55 UTC
 <!--END_SECTION:waka-->
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
 
