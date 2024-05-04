@@ -23,8 +23,6 @@
 
 > 📦 138.7 kB Used in GitHub's Storage 
  > 
-> 🏆 16 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 10 Public Repositories 
@@ -58,16 +56,13 @@ Sunday                   4 commits           ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JavaScript               1 hr 21 mins        ████████████░░░░░░░░░░░░░   48.94 % 
-Python                   48 mins             ███████░░░░░░░░░░░░░░░░░░   28.87 % 
-CSS                      37 mins             ██████░░░░░░░░░░░░░░░░░░░   22.18 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 47 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 44 mins       █████████████████████████   98.25 % 
-Mac                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -82,7 +77,7 @@ Shell                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 03/05/2024 00:46:58 UTC
+ Last Updated on 04/05/2024 00:43:29 UTC
 <!--END_SECTION:waka-->
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
 
