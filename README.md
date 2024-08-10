@@ -13,7 +13,7 @@
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-130%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-134%20hrs%2033%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -22,8 +22,6 @@
 **🐱 My GitHub Data** 
 
 > 📦 138.7 kB Used in GitHub's Storage 
- > 
-> 🏆 18 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -58,13 +56,14 @@ Sunday                   4 commits           ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   3 hrs 53 mins       ██████████████████████░░░   86.62 % 
+HTML                     36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  4 hrs 29 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      4 hrs 29 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -79,7 +78,7 @@ Shell                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 09/08/2024 00:52:03 UTC
+ Last Updated on 10/08/2024 00:51:32 UTC
 <!--END_SECTION:waka-->
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
 
