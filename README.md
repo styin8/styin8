@@ -13,17 +13,17 @@
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-166%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-173%20hrs%206%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-48.1%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-48.4%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 138.8 kB Used in GitHub's Storage 
  > 
-> 🏆 20 Contributions in the Year 2024
+> 🏆 22 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -31,44 +31,6 @@
  > 
 > 🔑 1 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                11 commits          ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-🌆 Daytime                19 commits          ███████████░░░░░░░░░░░░░░   43.18 % 
-🌃 Evening                14 commits          ████████░░░░░░░░░░░░░░░░░   31.82 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   5 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
-Tuesday                  8 commits           █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-Wednesday                8 commits           █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-Thursday                 11 commits          ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-Friday                   7 commits           ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
-Saturday                 1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
-Sunday                   4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Python                   10 hrs 45 mins      █████████████████████████   99.59 % 
-Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
-
-🔥 Editors: 
-VS Code                  10 hrs 48 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      10 hrs 48 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -81,7 +43,7 @@ Shell                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 12/12/2024 01:02:28 UTC
+ Last Updated on 13/12/2024 01:03:37 UTC
 <!--END_SECTION:waka-->
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
 
