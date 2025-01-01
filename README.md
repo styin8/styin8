@@ -23,7 +23,7 @@
 
 > 📦 138.8 kB Used in GitHub's Storage 
  > 
-> 🏆 22 Contributions in the Year 2024
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -80,7 +80,7 @@ Shell                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 31/12/2024 00:57:18 UTC
+ Last Updated on 01/01/2025 01:02:42 UTC
 <!--END_SECTION:waka-->
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
 
