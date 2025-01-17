@@ -58,16 +58,13 @@ Sunday                   4 commits           ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   33 mins             ██████████░░░░░░░░░░░░░░░   40.78 % 
-JavaScript               30 mins             ██████████░░░░░░░░░░░░░░░   38.03 % 
-HTML                     13 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
-CSS                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   1 hr 21 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 21 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -82,7 +79,7 @@ Shell                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 16/01/2025 00:56:15 UTC
+ Last Updated on 17/01/2025 00:55:50 UTC
 <!--END_SECTION:waka-->
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
 
