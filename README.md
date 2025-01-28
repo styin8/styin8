@@ -23,8 +23,6 @@
 
 > 📦 138.8 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 12 Public Repositories 
@@ -58,15 +56,13 @@ Sunday                   4 commits           ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   9 mins              █████████████████████████   99.62 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
-Jupyter                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  9 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      9 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -81,7 +77,7 @@ Shell                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 27/01/2025 00:57:30 UTC
+ Last Updated on 28/01/2025 00:56:20 UTC
 <!--END_SECTION:waka-->
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
 
