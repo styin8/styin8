@@ -31,6 +31,42 @@
  > 
 > 🔑 1 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                11 commits          ██████░░░░░░░░░░░░░░░░░░░   23.91 % 
+🌆 Daytime                19 commits          ██████████░░░░░░░░░░░░░░░   41.30 % 
+🌃 Evening                16 commits          █████████░░░░░░░░░░░░░░░░   34.78 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   5 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
+Tuesday                  8 commits           ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
+Wednesday                10 commits          █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
+Thursday                 11 commits          ██████░░░░░░░░░░░░░░░░░░░   23.91 % 
+Friday                   7 commits           ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
+Saturday                 1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+Sunday                   4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -43,7 +79,7 @@ Shell                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 05/04/2025 01:01:09 UTC
+ Last Updated on 06/04/2025 01:06:22 UTC
 <!--END_SECTION:waka-->
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
 
