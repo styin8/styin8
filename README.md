@@ -23,8 +23,6 @@
 
 > 📦 138.8 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 12 Public Repositories 
@@ -79,7 +77,7 @@ Shell                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 09/05/2025 01:05:36 UTC
+ Last Updated on 10/05/2025 01:03:24 UTC
 <!--END_SECTION:waka-->
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
 
