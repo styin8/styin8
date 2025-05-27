@@ -1,14 +1,11 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello, I'm 1st.! </h2>
-<p><em>Master student engaged in deep learning and robot grasping
-</a><img src="https://media3.giphy.com/media/5xtDarER9QBxQC40ZJC/giphy.gif" width="30"> 
-</em></p>
 <p><em>Software engineer (maybe?)  interested in everything
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> <em><b>I love discussing all kinds of computer technology</b>, so if you want to share with me, <b>I'll be happy to communicate with you!</b> 😊</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> <em><b>I love discussing all kinds of computer technology</b>, so if you want to share with me, I'll be happy to communicate with you! 😊</em>
 
 ---
 <!--START_SECTION:waka-->
