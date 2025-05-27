@@ -1,4 +1,4 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello, I'm styin8! </h2>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello, I'm 1st.! </h2>
 <p><em>Master student engaged in deep learning and robot grasping
 </a><img src="https://media3.giphy.com/media/5xtDarER9QBxQC40ZJC/giphy.gif" width="30"> 
 </em></p>
