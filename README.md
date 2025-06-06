@@ -13,13 +13,13 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-45.9%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-47.5%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 1.9 kB Used in GitHub's Storage 
+> 📦 2.6 kB Used in GitHub's Storage 
  > 
-> 🏆 3 Contributions in the Year 2025
+> 🏆 14 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -27,42 +27,6 @@
  > 
 > 🔑 1 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                9 commits           ██████████░░░░░░░░░░░░░░░   39.13 % 
-🌆 Daytime                8 commits           █████████░░░░░░░░░░░░░░░░   34.78 % 
-🌃 Evening                6 commits           ███████░░░░░░░░░░░░░░░░░░   26.09 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   2 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-Tuesday                  8 commits           █████████░░░░░░░░░░░░░░░░   34.78 % 
-Wednesday                3 commits           ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-Thursday                 3 commits           ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-Friday                   6 commits           ███████░░░░░░░░░░░░░░░░░░   26.09 % 
-Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sunday                   1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Python                   9 mins              █████████████████████████   100.00 % 
-
-🔥 Editors: 
-PyCharm                  9 mins              █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  9 mins              █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in C++** 
 
 ```text
@@ -74,7 +38,7 @@ Python                   2 repos             ███████░░░░�
 
 
 
- Last Updated on 02/06/2025 01:10:06 UTC
+ Last Updated on 06/06/2025 01:07:21 UTC
 <!--END_SECTION:waka-->
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
 
