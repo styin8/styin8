@@ -54,14 +54,13 @@ Sunday                   1 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       8 mins              ███████████████████████░░   93.47 % 
-JSON                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  9 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  9 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C++** 
@@ -75,7 +74,7 @@ Python                   2 repos             ███████░░░░�
 
 
 
- Last Updated on 12/07/2025 01:12:50 UTC
+ Last Updated on 13/07/2025 01:17:48 UTC
 <!--END_SECTION:waka-->
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
 
